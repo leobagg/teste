@@ -1,0 +1,13 @@
+
+<div id="x" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><script src="http://content.jwplatform.com/libraries/zkpZNdwa.js"></script>
+<div id='playerBLiyUVVsMPRD'></div>
+<script type='text/javascript'>
+ jwplayer('playerBLiyUVVsMPRD').setup({
+		repeat: 'false',
+		fallback: 'false',
+                hlshtml: true,
+                width: '640',
+		height: '360',
+file: "http://31.204.153.115:8081/live/sportv/playlist.m3u8"
+ });
+</script>
